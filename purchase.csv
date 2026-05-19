@@ -1,0 +1,50 @@
+Customer id,Age,Gender,Item,Count,Size,Review,Discount,Payment,Previous purchase
+1,30,Male,Shirt,1,L,3.2,No,Cash,3
+2,35,Male,Pant,1,M,4.4,No,Credit card,2
+3,16,Female,Shorts,3,XL,5,Yes,Bank transfer,4
+4,20,Male,Shirt,3,XXL,3.5,Yes,Cash,2
+5,22,Female,Saree,2,M,4.6,No,Debit card,5
+6,35,Female,Saree,1,L,4.9,No,Credit card,6
+7,60,Male,Shirt,2,L,4,No,Debit card,3
+8,46,Male,Trousar,2,M,3.9,No,Bank transfer,4
+9,47,Female,Saree,1,XL,3.5,No,Cash,5
+10,67,Male,Shirt,2,L,3.6,No,Bank transfer,2
+11,53,Female,shorts,1,XXL,4,No,Debit card,7
+12,15,Male,Shirt,3,XL,4.2,Yes,Debit card,6
+13,36,Female,Saree,4,M,4.1,Yes,Debit card,4
+14,29,Male,pant,5,M,2,Yes,Credit card,3
+15,40,Female,Blowse,3,XXL,3.8,Yes,Credit card,1
+16,32,Male,Trousar,2,M,3.5,No,Cash,2
+17,44,Male,Shirt,1,M,4.8,No,Cash,7
+18,53,Male,Saree,3,M,4.5,Yes,Cash,8
+19,17,Female,Shorts,4,L,4,Yes,Cash,No
+19,16,Female,Saree,2,L,3,No,Cash,2
+21,19,Male,Shirt,3,XL,3.9,Yes,Cash,No
+22,40,Female,Shorts,1,XXL,5,No,Cash,3
+23,33,Male,pant,1,M,3.3,No,Cash,3
+24,37,Female,Shirt,1,L,4,No,Cash,1
+25,50,Male,Shirt,3,M,4.2,Yes,Credit card,9
+26,27,Female,Saree,2,XXL,4,No,Debit card,7
+27,26,Female,Saree,5,M,5,Yes,Debit card,4
+28,25,Male,Shirt,4,M,4.4,Yes,Debit card,5
+29,19,Male,Blowse,3,M,4.1,Yes,Cash,6
+30,20,Female,Shirt,2,L,3,No,Cash,No
+31,40,Female,Pant,1,XL,3.7,No,Credit card,No
+32,35,Female,Pant,2,XXL,4,No,Bank transfer,No
+33,39,Female,Trousar,3,L,5,Yes,Bank transfer,8
+34,45,Male,Shirt,2,M,4.9,No,Bank transfer,5
+35,23,Male,Pant,1,L,4.5,No,Cash,4
+36,49,Female,Pant,2,L,3,No,Debit card,3
+37,55,Female,Pant,1,M,3.6,No,Credit card,No
+38,59,Male,Saree,2,XL,3.1,No,Cash,No
+39,28,Male,Saree,3,XXL,2.7,Yes,Cash,No
+40,34,Female,Saree,4,XL,4.7,Yes,Cash,No
+41,29,Male,Pant,2,M,5,No,Cash,8
+42,48,Male,Trousar,1,M,4.8,No,Cash,3
+43,27,Male,Trousar,5,M,4.6,Yes,Cash,6
+44,19,Male,Trousar,2,L,3.6,No,Debit card,8
+45,17,Female,Shirt,1,L,3.9,No,Cash,No
+46,20,Male,Shirt,1,XL,3.8,No,Bank transfer,No
+47,47,Male,Shirt,2,L,3.5,No,Cash,No
+48,33,Female,Blowse,3,M,4.8,Yes,Cash,No
+49,20,Female,Saree,2,S,5,No,Cash,No
